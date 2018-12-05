@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/StoreManage/Add.cshtml" hash="4188aef5" filehash="c69a66194e4" flags="110000" assembly="App_Web_hld1e2ty" type="ASP._Page_Views_StoreManage_Add_cshtml">
+    <filedeps>
+        <filedep name="/Views/StoreManage/Add.cshtml" />
+    </filedeps>
+</preserve>

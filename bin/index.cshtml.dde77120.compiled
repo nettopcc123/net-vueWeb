@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/NewsManage/Index.cshtml" hash="4188aef5" filehash="4fb96cee38f" flags="110000" assembly="App_Web_ptctpvgq" type="ASP._Page_Views_NewsManage_Index_cshtml">
+    <filedeps>
+        <filedep name="/Views/NewsManage/Index.cshtml" />
+    </filedeps>
+</preserve>
